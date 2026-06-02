@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "*.asm",
+      "src": "api/*.asm",
       "use": "@nestorvashenko/vercel-nasm"
     }
   ]
